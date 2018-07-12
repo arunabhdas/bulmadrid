@@ -1,0 +1,12 @@
+{
+  "name": "bulmadrid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arunabhdas/bulmadrid.git",
+  "author": "Arunabh Das <arunabhdas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "font-awesome": "^4.7.0"
+  }
+}
